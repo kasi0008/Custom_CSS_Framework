@@ -8,12 +8,14 @@ h1 {
   color: #007bff;
   font-size: 34px;
   font-weight: bold;
+  background-color: pink;
 }
 
 h2 {
   color: #6c757d;
   font-size: 30px;
   font-weight: bold;
+  background-color: pink;
 }
 
 /* _buttons.scss */
@@ -29,6 +31,7 @@ h2 {
 /* _utilities.scss */
 .text-center {
   text-align: center;
+  background-color: pink;
 }
 
 .mt-2 {
